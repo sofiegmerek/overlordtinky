@@ -72,6 +72,7 @@ img{
 
 @media screen and (max-width: 1242px) {
    
+   
    img{
        position: absolute;
        
@@ -81,23 +82,28 @@ img{
         width: 100%
         position: absolute;
     }
+    .emote{
+        width: 70%;
+        height: auto;
+    }
    
    #tinky{
        background-image: url('lightcrop.png');
        position: absolute;
        width: 70%;
        height: auto;
+       margin-left: 10%;
        
    }
    
    .food2{
+       margin-left: 10%;
        height: 10%
            
    }
    .food{
-       margin-left: 60%;
-       background: blue;
        height: 10%;
+       margin-left: 60%;
    }
    
 }
