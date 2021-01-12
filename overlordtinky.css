@@ -70,7 +70,7 @@ img{
 
 
 
-@media (max-width: 1242px) {
+@media screen and (max-width: 1242px) {
    
    img{
        position: absolute;
