@@ -67,3 +67,37 @@ img{
 #orange{margin-top: 500px;}
 
 #pear{margin-top: 600px;}
+
+
+
+@media (max-width: 768px) {
+   
+   img{
+       position: absolute;
+       
+   }
+    .greet{
+        width: 100%
+        position: absolute;
+    }
+   
+   #tinky{
+       background-image: url('lightcrop.png');
+       position: absolute;
+       width: 60%;
+       height: auto;
+       
+   }
+   
+   .food2{
+       height: 10%
+   }
+   .food{
+       margin-left: 400px;
+
+       position: absolute;
+       background: green;
+       height: 10%;
+   }
+   
+}
