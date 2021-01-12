@@ -83,14 +83,14 @@ img{
         position: absolute;
     }
     .emote{
-        width: 80%;
+        width: 90%;
         height: auto;
     }
    
    #tinky{
        background-image: url('lightcrop.png');
        position: absolute;
-       width: 80%;
+       width: 90%;
        height: auto;
        margin-left: 10%;
        
