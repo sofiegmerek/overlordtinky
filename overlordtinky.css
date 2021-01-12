@@ -34,39 +34,39 @@ img{
 }
 
 #banana{
-    margin-top: 300px;
+    margin-top: 30%;
     position: absolute;
 }
 
 #tomato{
-    margin-top: 400px;
+    margin-top: 40%;
     position: absolute;
 }
 
 #leaf{
-    margin-top: 500px;
+    margin-top: 50%;
 }
 
 #flower{
-    margin-top: 600px;
+    margin-top: 60%;
 }
 
 .food{
-    margin-left: 700px;
+    margin-left: 70%;
 }
 
 
-#fish{margin-top: 100px;}
+#fish{margin-top: 10%;}
 
-#apple{margin-top: 200px;}
+#apple{margin-top: 20%;}
 
-#egg{margin-top: 300px;}
+#egg{margin-top: 30%;}
 
-#onigiri{margin-top: 390px;}
+#onigiri{margin-top: 39%;}
 
-#orange{margin-top: 500px;}
+#orange{margin-top: 50%;}
 
-#pear{margin-top: 600px;}
+#pear{margin-top: 60%;}
 
 
 
