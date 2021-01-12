@@ -84,16 +84,17 @@ img{
    #tinky{
        background-image: url('lightcrop.png');
        position: absolute;
-       width: 60%;
+       width: 70%;
        height: auto;
        
    }
    
    .food2{
        height: 10%
+           
    }
    .food{
-       margin-left: 80%;
+       margin-left: 70%;
        background: red;
        height: 10%;
    }
