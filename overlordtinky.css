@@ -91,7 +91,7 @@ img{
    #tinky{
        background-image: url('lightcrop.png');
        position: absolute;
-       width: 80%;
+       width: 90%;
        height: auto;
        margin-left: 10%;
        
@@ -104,7 +104,7 @@ img{
    }
    .food{
        height: 10%;
-       margin-left: 90%;
+       margin-left: 80%;
    }
    
 }
