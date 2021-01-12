@@ -78,9 +78,8 @@ img{
        
    }
     .greet{
-        margin-left: 0px;
-        width: 100%
-         height: auto
+        width: 1000px;
+        height: auto
         position: absolute;
     }
     .emote{
