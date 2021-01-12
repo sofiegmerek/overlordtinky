@@ -1,0 +1,69 @@
+body, html{
+    background-image: url('light.png');
+    
+}
+
+img{
+    margin-left: 200px;
+    position: absolute;
+    transition: visibility 2s linear;
+}
+
+.greet{
+    background-image: url('lightcrop.png');
+}
+
+.emote{
+    background-image: url('lightcrop.png');
+
+}
+#tinky{
+    background-image: url('lightcrop.png');
+}
+
+
+
+#lemon{
+    margin-top: 100px;
+    position: absolute;
+}
+
+#kale{
+    margin-top: 200px;
+    position: absolute;
+}
+
+#banana{
+    margin-top: 300px;
+    position: absolute;
+}
+
+#tomato{
+    margin-top: 400px;
+    position: absolute;
+}
+
+#leaf{
+    margin-top: 500px;
+}
+
+#flower{
+    margin-top: 600px;
+}
+
+.food{
+    margin-left: 900px;
+}
+
+
+#fish{margin-top: 100px;}
+
+#apple{margin-top: 200px;}
+
+#egg{margin-top: 300px;}
+
+#onigiri{margin-top: 390px;}
+
+#orange{margin-top: 500px;}
+
+#pear{margin-top: 600px;}
