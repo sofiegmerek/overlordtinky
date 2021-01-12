@@ -28,7 +28,11 @@ img{
         height: auto;
 }
 
-
+.food{
+    height: 90%;}
+.food2{
+    height: 90%;
+}
 
 #lemon{
     margin-top: 10%;
