@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="overlordtinky.css">
+    <title>Meet your Overlord</title>
+</head>
+
+<body>
+<audio autoplay loop>
+    <source src="spiritsdanceshort.wav" alt="Music: “Spirits Dance”, from PlayOnLoop.com
+        Licensed under Creative Commons by Attribution 4.0" type="audio/wav">
+</audio>
+
+<script>
+    function showhappy(){
+        var mything = document.getElementById('happy');
+        mything.style.display='block';
+        setTimeout(hide, 4000);
+    }
+
+
+    </script>
+
+<script>
+    function showmad(){
+        var mything = document.getElementById('angry');
+        mything.style.display='block';
+        setTimeout(hide, 4000);
+    }
+
+    </script>
+<script>
+    function hide(){
+        var mything = document.getElementById('happy');
+        mything.style.display='none';
+        var mything2 = document.getElementById('angry');
+        mything2.style.display='none';
+
+    }
+
+    </script>
+
+<img src="tinky.png" id="tinky"  height=700;>
+
+<div id="happy" style="display:none;"><img class="emote" id="pleased" src="pleasedshift.png" alt="happy"></div>
+<div id="angry" style="display:none;"><img class="emote" src="ang2.png" alt="angry"></div>
+
+<a href="javascript:;" onClick="showhappy()" >
+    <img src="carrotcrop.png" height=100px id="carrot" alt="carrot"> </a>
+
+<a href="javascript:;" onClick="showmad()">
+    <img id="lemon" src="food/lemon.png" alt="lemon"> </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img src="food/kale.png" id="kale" alt="kale"> </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img src="food/banana.png" id="banana" alt="banana"> </a>
+
+<a href="javascript:;" onClick="showmad()">
+    <img id="tomato" src="food/tomato.png" alt="tomato"> </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img id="leaf" src="food/leaf.png" alt="leaf"> </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img id="flower" src="food/flower.png" alt="flower"> </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img id="parsley" src="food/parsley.png" class="food" alt="parsley"> </a>
+
+<a href="javascript:;" onClick="showmad()">
+    <img id="fish" src="food/fish.png" class="food" alt="fish"> </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img id="apple" src="food/appo.png" class="food" alt="apple"> </a>
+
+<a href="javascript:;" onClick="showmad()">
+    <img id="egg" src="food/egg.png" class="food" alt="egg"> </a>
+
+<a href="javascript:;" onClick="showmad()">
+    <img id="onigiri" src="food/onigiri.png" class="food" alt="onigiri"> </a>
+
+<a href="javascript:;" onClick="showmad()">
+    <img id="orange" src="food/orang.png" class="food" alt="orange" > </a>
+
+<a href="javascript:;" onClick="showhappy()">
+    <img id="pear" src="food/pear.png" class="food" alt="pear"> </a>
+
+<img src="please800.gif" class="greet"  onclick="this.style.display='none';"  style="opacity:50rem;" >
+<img src="overlord800.gif"  class="greet" onclick="this.style.display='none';"  style="opacity:50rem;">
+<img src="welcome800.gif" class="greet" onclick="this.style.display='none';" style="opacity:50rem;" >
+
+</body>
+
+</html>
+
+<!--
+<div id="hideaway" style="display:none;"><img src="bigwelcome.gif"></div>
+<a href="javascript:;" onClick="document.getElementById('hideaway').style.display='block';"><svg width="400" height="100">
+    <rect width="100px" height="50px" style="fill:blue;" />
+  </svg></a>
+<a href="javascript:;" onClick="document.getElementById('hideaway').style.display='none';">Hide content again</a>
+-->
