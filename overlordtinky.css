@@ -93,10 +93,8 @@ img{
        height: 10%
    }
    .food{
-       margin-left: 400px;
-
-       position: absolute;
-       background: green;
+       margin-left: 700px;
+       background: red;
        height: 10%;
    }
    
