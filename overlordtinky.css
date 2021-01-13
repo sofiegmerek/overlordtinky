@@ -116,31 +116,37 @@ img{
 @media screen and (min-width: 1243px) {
     #lemon{
     margin-top: 7%;
-    position: absolute;
-}
+    position: absolute;}
 
 #kale{
     margin-top: 14%;
-    position: absolute;
-}
+    position: absolute;}
 
 #banana{
     margin-top: 21%;
-    position: absolute;
-}
+    position: absolute;}
 
 #tomato{
     margin-top: 28%;
-    position: absolute;
-}
+    position: absolute;}
 
-#leaf{
-    margin-top: 35%;
-}
+#leaf{margin-top: 35%;}
 
-#flower{
-    margin-top: 42%;
-}
+#flower{margin-top: 42%;}
+    
+  #fish{margin-top: 7%;}
+
+#apple{margin-top: 14%;}
+
+#egg{margin-top: 21%;}
+
+#onigiri{margin-top: 28%;}
+
+#orange{margin-top: 35%;}
+
+#pear{margin-top: 42%;}
+    
+    
 }
     
 
