@@ -112,3 +112,35 @@ img{
    }
    
 }
+
+@media screen and (min-width: 1243px) {
+    #lemon{
+    margin-top: 7%;
+    position: absolute;
+}
+
+#kale{
+    margin-top: 14%;
+    position: absolute;
+}
+
+#banana{
+    margin-top: 21%;
+    position: absolute;
+}
+
+#tomato{
+    margin-top: 28%;
+    position: absolute;
+}
+
+#leaf{
+    margin-top: 35%;
+}
+
+#flower{
+    margin-top: 42%;
+}
+}
+    
+
